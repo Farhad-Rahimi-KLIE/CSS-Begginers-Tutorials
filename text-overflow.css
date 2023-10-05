@@ -1,0 +1,7 @@
+.para{
+ white-space:nowrap;
+ width:200px;
+ ovwrflow:hidden;
+ text-overflow:clip;
+ border-1px solid red;
+} 
