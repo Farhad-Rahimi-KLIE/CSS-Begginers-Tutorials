@@ -1,0 +1,7 @@
+div.absolute{
+ pisition:absolute;
+ top:30px;
+ right:0;
+ width:200px;
+ height:100px;
+}
