@@ -1,0 +1,8 @@
+.div1{
+ display:flex;
+ flex-wrap:wrap;
+}
+.div2{
+ display:flex;
+ flex-wrap:nowrap;
+} 
