@@ -1,5 +1,5 @@
 div{
  background-image:url("border.png");
  background-origin:content-box;
- background-repeat:no-repeat;
+ background-repeat:repeat;
 }
