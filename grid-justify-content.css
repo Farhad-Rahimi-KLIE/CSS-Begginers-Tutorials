@@ -1,3 +1,6 @@
+/*
+ grid-justify-content
+*/
 .grid-container{
  display :grid;
  justify-content:space-evenly;
