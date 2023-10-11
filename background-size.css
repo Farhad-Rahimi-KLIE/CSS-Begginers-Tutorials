@@ -1,3 +1,6 @@
+/*
+ Background size
+*/
 #example{
  background-image:url("border.png");
  background-size:100px 80px;
