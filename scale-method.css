@@ -1,3 +1,6 @@
+/*
+ scale-method
+*/
 div{
  transform:scale(2,3);
 }
