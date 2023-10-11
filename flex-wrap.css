@@ -1,3 +1,6 @@
+/*
+ flex wrap
+*/
 .div1{
  display:flex;
  flex-wrap:wrap;
