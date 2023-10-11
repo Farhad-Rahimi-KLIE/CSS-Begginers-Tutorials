@@ -1,3 +1,6 @@
+/*
+ scaleX-method
+*/
 div{
  transform:scaleX(2);
 }
