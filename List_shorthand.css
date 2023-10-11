@@ -1,3 +1,6 @@
+/*
+ List Shorthand
+*/
 ul{
  list-style:square inside url("square.jpg")
 }
