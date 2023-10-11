@@ -1,3 +1,6 @@
+/*
+ Delay transition effect
+*/
 h1{
  transition-delay:1s;
 }
