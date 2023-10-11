@@ -1,3 +1,6 @@
+/* 
+ Background origin
+*/
 div{
  background-image:url("border.png");
  background-origin:content-box;
