@@ -1,3 +1,6 @@
+/*
+ rotate method
+*/
 div{
  transform:rotate(20deg);
 }
