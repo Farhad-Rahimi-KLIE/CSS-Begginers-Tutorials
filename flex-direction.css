@@ -1,3 +1,6 @@
+/*
+ flex-direction
+*/
 .div{
  display: flex;
  flex-direction:column;
