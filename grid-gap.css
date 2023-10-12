@@ -1,4 +1,6 @@
-grid-gap
+/*
+ css grid-gap
+*/
 .flex-container{
  display:grid;
  grid-column-gap:50px;
