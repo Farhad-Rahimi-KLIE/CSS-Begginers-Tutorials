@@ -2,7 +2,7 @@
  Box-sizing
 */
 .div1{
- width:300px;
+ width:400px;
  height:100px;
  border:1px solid red;
  box-sizing:border-box;
