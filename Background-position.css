@@ -1,7 +1,7 @@
 /*
  Background Position
 */
-#example{
+#Example{
  background-image:url("image.png");
  background-position:right bottom, left top;
  background-repeat:no-repeat;
