@@ -1,5 +1,5 @@
 /*
-css transition-Transformation
+CSS transition-Transformation
 */
 div{
  transition:width 2s, height 3s, transform 2s;
