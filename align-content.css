@@ -3,7 +3,7 @@
 */
 .sass{
  display:flex;
- height:600px;
+ height:700px;
  flex-wrap:wrap;
  align-content:space-between;
 }
